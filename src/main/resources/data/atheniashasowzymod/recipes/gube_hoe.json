@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": { "item": "atheniashasowzymod:gube" },
+		"X": { "item": "minecraft:stick" }
+	},
+	"pattern": [
+		"##",
+		" X",
+		" X"
+	],
+	"result": {
+		"count": 1,
+		"id": "atheniashasowzymod:gube_hoe"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": { "item": "atheniashasowzymod:hasowzy_ingot" }
+	},
+	"pattern": [
+		"###",
+		"# #"
+	],
+	"result": {
+		"count": 1,
+		"id": "atheniashasowzymod:hasowzy_chestplate"
+	}
+}

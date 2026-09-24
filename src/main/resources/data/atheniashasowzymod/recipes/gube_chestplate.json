@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": { "item": "atheniashasowzymod:gube" }
+	},
+	"pattern": [
+		"# #",
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 1,
+		"id": "atheniashasowzymod:gube_chestplate"
+	}
+}
